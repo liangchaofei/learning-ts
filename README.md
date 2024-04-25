@@ -1,2 +1,0 @@
-# learning-ts
-learning-ts
